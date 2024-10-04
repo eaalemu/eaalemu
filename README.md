@@ -1,4 +1,4 @@
-#About Me 👋🏾:
+# About Me 👋🏾:
 Thank you for coming to my profile! My name is Emmanuel Alemu, and I am honored to introduce myself.<br><br>💻 - I am currently working as a Python developer as a new SWE!<br>🧠 - I am interested expanding my knowledge of machine learning and full-stack development to make unique projects that have great utility in daily life.<br>✍🏾 - I am currently learning Python, Cloud Infrastruture, Kubernetes, Couchbase and SQL.<br>🎨 - Within my hobbies, I love to read and write, I love fashion and fitness, and I love trying anything that allows me to collaborate with others!<br><br>As my page evolves, I hope to display the mark of an engineer that loves people and loves to learn even more!<br><br>Looking forward to the future! 🚀
 
 
