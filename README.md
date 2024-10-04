@@ -9,9 +9,6 @@ Thank you for coming to my profile! My name is Emmanuel Alemu, and I am honored 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eaalemu&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eaalemu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=eaalemu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
